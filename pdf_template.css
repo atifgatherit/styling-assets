@@ -1077,10 +1077,10 @@ p {
 }
 
 .export__footer__container {
-  display: flex;
-  justify-content: space-between;
+  display: flex !important;
+  justify-content: space-between !important;
   border-top: 0.02px solid #C5C7CE;
-  width: 100%;
+  width: 100% !important;
   padding-bottom: 52px;
   padding-top: 16px;
 }
