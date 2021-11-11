@@ -1,41 +1,41 @@
 @font-face {
   font-family: 'Headline';
-  src: url("https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap") format("truetype");
+  src: url(https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap) format("truetype");
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Header';
-  src: url("https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap") format("truetype");
+  src: url(https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap) format("truetype");
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Subheader';
-  src: url("https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap") format("truetype");
+  src: url(https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap) format("truetype");
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Copy';
-  src: url("https://fonts.googleapis.com/css2?family=Roboto&display=swap") format("truetype");
+  src: url(https://fonts.googleapis.com/css2?family=Roboto&display=swap) format("truetype");
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Italic';
-  src: url("https://fonts.googleapis.com/css2?family=Roboto:ital@1&display=swap") format("truetype");
+  src: url(https://fonts.googleapis.com/css2?family=Roboto:ital@1&display=swap) format("truetype");
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Bold';
-  src: url("https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap") format("truetype");
+  src: url(https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap) format("truetype");
   font-weight: normal;
   font-style: normal;
 }
