@@ -1,25 +1,25 @@
 @font-face {
   font-family: 'Headline';
-  src: url("../../fonts/Roboto-Thin.ttf") format("truetype");
+  src: url("https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap") format("truetype");
   font-weight: normal;
   font-style: normal; }
 
 @font-face {
   font-family: 'Header';
-  src: url("../../fonts/Roboto-Medium.ttf") format("truetype");
+  src: url("https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap") format("truetype");
   font-weight: normal;
   font-style: normal; }
 
 
 @font-face {
   font-family: 'Subheader';
-  src: url("../../fonts/Roboto-Light.ttf") format("truetype");
+  src: url("https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap") format("truetype");
   font-weight: normal;
   font-style: normal; }
 
 @font-face {
   font-family: 'Copy';
-  src: url("../../fonts/Roboto-Regular.ttf") format("truetype");
+  src: url("https://fonts.googleapis.com/css2?family=Roboto&display=swap") format("truetype");
   font-weight: normal;
   font-style: normal; }
 
