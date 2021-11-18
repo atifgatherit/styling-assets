@@ -558,7 +558,7 @@ h4.export__text--bold {
 .section-title {
   font-size: 20.5pt;
   margin-bottom: 0.35in !important;
-  font-family: Headline;
+  font-family: Headline !important;
   font-weight: 600;
 }
 
